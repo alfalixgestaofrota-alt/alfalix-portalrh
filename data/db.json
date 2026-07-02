@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "id": "emp-admin",
+      "cpf": "000.000.000-00",
+      "name": "Ana Souza (RH)",
+      "email": "ana.souza@empresa.com.br",
+      "cargo": "Gerente de Recursos Humanos",
+      "departamento": "Recursos Humanos",
+      "status": "ativo",
+      "isAdmin": true,
+      "createdAt": "2025-01-10T09:00:00.000Z"
+    }
+  ],
+  "payslips": [],
+  "auditLogs": [],
+  "company": {
+    "name": "ALFA LIX SERVIÇOS E TRANSPORTE",
+    "cnpj": "08.698.921/0001-81",
+    "address": "Embu das Artes - SP",
+    "ie": ""
+  },
+  "passwords": {
+    "emp-admin": "rh"
+  }
+}
