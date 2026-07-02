@@ -1,0 +1,6 @@
+{
+  "name": "Portal Alfa",
+  "description": "Portal corporativo para gerenciamento, entrega e assinatura digital de holerites para colaboradores.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
